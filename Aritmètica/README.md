@@ -1,2 +1,4 @@
 # L'aritmètica dels sistemes dinàmics
-- L'arxiu HTML ''Z2_animation_aritmetica'' s'ha d'obrir amb un navegador per visualitzar l'animació 3D
+- L'arxiu HTML ''Z2_animation_aritmetica.html'' s'ha d'obrir amb un navegador per visualitzar l'animació 3D
+- L'arxiu HTML ''Elliptic_a-43_b166.html'' s'ha d'obrir amb un navegador per visualitzar l'animació 3D i correspon a y^2=x^3-43x+166
+- L'arxiu HTML ''Elliptic_a1_b1.html'' s'ha d'obrir amb un navegador per visualitzar l'animació 3D i correspon a y^2=x^3+x+1
